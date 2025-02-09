@@ -1,5 +1,16 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/andriyprotsak5/andriyprotsak5.r-universe.dev
 	branch = HEAD
+[submodule "UAHDataScienceO"]
+	path = UAHDataScienceO
+	url = https://github.com/andriyprotsak5/UAHDataScienceO
+[submodule "UAHDataScienceSC"]
+	path = UAHDataScienceSC
+	url = https://github.com/andriyprotsak5/UAHDataScienceSC
+[submodule "UAHDataScienceSF"]
+	path = UAHDataScienceSF
+	url = https://github.com/andriyprotsak5/UAHDataScienceSF
+[submodule "UAHDataScienceUC"]
+	path = UAHDataScienceUC
+	url = https://github.com/andriyprotsak5/UAHDataScienceUC
